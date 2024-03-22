@@ -1,0 +1,31 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="18">
+            <item index="0" class="java.lang.String" itemvalue="jupyter-core" />
+            <item index="1" class="java.lang.String" itemvalue="transformers" />
+            <item index="2" class="java.lang.String" itemvalue="hanlp-common" />
+            <item index="3" class="java.lang.String" itemvalue="huggingface-hub" />
+            <item index="4" class="java.lang.String" itemvalue="ipython" />
+            <item index="5" class="java.lang.String" itemvalue="torch" />
+            <item index="6" class="java.lang.String" itemvalue="jupyter-client" />
+            <item index="7" class="java.lang.String" itemvalue="pyhanlp" />
+            <item index="8" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="9" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="10" class="java.lang.String" itemvalue="prometheus-client" />
+            <item index="11" class="java.lang.String" itemvalue="alnlp" />
+            <item index="12" class="java.lang.String" itemvalue="hanlp-restful" />
+            <item index="13" class="java.lang.String" itemvalue="importlib-resources" />
+            <item index="14" class="java.lang.String" itemvalue="jupyterlab-widgets" />
+            <item index="15" class="java.lang.String" itemvalue="jupyter-console" />
+            <item index="16" class="java.lang.String" itemvalue="hanlp-trie" />
+            <item index="17" class="java.lang.String" itemvalue="hanlp" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
